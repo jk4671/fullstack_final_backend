@@ -1,8 +1,10 @@
 # Notes Keeper (Backend)
 
+This is the backend of the Notes Keeper app. It has been deployed on Render (https://fullstack-final-backend.onrender.com/).
+
 This project was based off of Shivam Shekhar's Note Taking app (https://github.com/shvam0000/Full-Stack-Note-Taking-Application).
 
-The frontend can be found here: https://github.com/jk4671/fullstack_final_frontend.git
+The frontend can be found here: https://github.com/jk4671/fullstack_final_frontend.git.
 
 ## Steps to run the program
 
