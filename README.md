@@ -20,10 +20,6 @@ Install all the dependencies
 ```
 npm install
 ```
-or
-```
-yarn install
-```
 If you wish to run the program locally, change process.env.PORT in index.js to 8000.
 ```
 8000
@@ -31,8 +27,4 @@ If you wish to run the program locally, change process.env.PORT in index.js to 8
 Run the backend Node.js server
 ```
 npm run start
-```
-or
-```
-yarn start
 ```
