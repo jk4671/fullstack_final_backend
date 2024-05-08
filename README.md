@@ -6,6 +6,12 @@ This project was based off of Shivam Shekhar's Note Taking app (https://github.c
 
 The frontend can be found here: https://github.com/jk4671/fullstack_final_frontend.git.
 
+## Author
+
+Jordyn Kim
+
+UNI: jk4671
+
 ## Steps to run the program
 
 Create a .env file and add MONGO_DB_URI to the file
