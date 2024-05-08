@@ -14,6 +14,19 @@ Jordyn Kim
 
 UNI: jk4671
 
+## Prerequisites
+
+### System requirement :
+
+1. Any system with basic configuration.
+2. Operating System : Any (Windows / Linux / Mac).
+
+### Software requirement :
+
+1. Updated browser
+2. Node.js installed (If not download it [here](https://nodejs.org/en/download/)).
+3. Any text editor of your choice.
+
 ## Steps to run the program
 
 Create a .env file and add MONGO_DB_URI to the file
