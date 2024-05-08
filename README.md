@@ -1,6 +1,8 @@
 # Notes Keeper (Backend)
 
-This is the backend of the Notes Keeper app created using Node, Express, MongoDB. It has been deployed on Render (https://fullstack-final-backend.onrender.com/).
+This is the backend of the Notes Keeper app created using Node, Express, MongoDB. It lets users create, edit, and delete notes (with Title and Content).
+
+It has been deployed on Render (https://fullstack-final-backend.onrender.com/).
 
 This project was based off of Shivam Shekhar's Note Taking app (https://github.com/shvam0000/Full-Stack-Note-Taking-Application).
 
