@@ -41,7 +41,7 @@ Install all the dependencies
 ```
 npm install
 ```
-If you wish to run the program locally, change process.env.PORT in index.js to 8000.
+If you wish to run the program locally, change process.env.PORT to 8000 in index.js.
 ```
 8000
 ```
