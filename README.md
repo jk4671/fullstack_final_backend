@@ -1,5 +1,8 @@
 # Notes Keeper (Backend)
 
+<p>
+  <img width="1063" alt="Front page" src="https://github.com/user-attachments/assets/81a84ab8-4419-482e-a59d-6bd548940b82">
+</p>
 This is the backend of the Notes Keeper app created using Node, Express, MongoDB. It lets users create, edit, and delete notes (with Title and Content).
 
 It has been deployed on Render (https://fullstack-final-backend.onrender.com/).
@@ -13,6 +16,10 @@ The frontend can be found here: https://github.com/jk4671/fullstack_final_fronte
 Jordyn Kim
 
 UNI: jk4671
+
+## Demo
+
+https://www.youtube.com/watch?v=dvWX_CMpISg
 
 ## Prerequisites
 
